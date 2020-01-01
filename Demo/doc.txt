@@ -1,0 +1,22 @@
+﻿dotnet new console -lang F# -o myFSharpApp
+cd myFSharpApp
+
+http://www.23musicbaran.us/forum/showthread.php/7487-%D8%A2%D9%84%D8%A8%D9%88%D9%85-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%85%D8%AD%D8%B3%D9%86-%DA%86%D8%A7%D9%88%D8%B4%DB%8C-%D8%A8%DB%8C%D9%80%D9%80-%D9%86%D9%80%D8%A7%D9%85-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF/page532
+https://github.com/dotnet/csharplang/milestone/15
+https://virgool.io/fsharp
+https://virgool.io/fsharp/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-f-%D9%82%D8%B3%D9%85%D8%AA-%DB%B3-m1gdg0lxktoc
+https://dotnet.microsoft.com/learn/languages/fsharp-hello-world-tutorial/next
+https://docs.microsoft.com/en-gb/dotnet/fsharp/what-is-fsharp
+https://virgool.io/fsharp/learn-fsharp-for-fun-and-profit-ox5rxavm9tq3
+https://fsharp.org/
+https://fsharpforfunandprofit.com/
+https://github.com/elmish/elmish
+https://elmish.github.io/elmish/basics.html
+https://fsbolero.io/
+https://tryfsharp.fsbolero.io/
+https://safe-stack.github.io/
+https://virgool.io/Bosque/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%AA%D8%AC%D8%B1%D8%A8%D9%87-%D8%A8%D8%A7-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D8%A7%D9%81%D8%AA-%D8%A8%D9%87-%D9%86%D8%A7%D9%85-bosque-nnwe0wnvc17w
+https://github.com/Microsoft/BosqueLanguage
+https://virgool.io/Bosque/%D8%B3%D8%B1%D8%B9%D8%AA-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-bosque-cwignfnwsoap
+https://virgool.io/Bosque/%DA%86%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-bosque-%D8%A7%D9%85%DB%8C%D8%AF%D9%88%D8%A7%D8%B1%D9%85-tko1wuejae2x
+http://learn101.org/basque.php
